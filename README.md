@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+* I am a PhD-student in cyber security
+* I work at [Eindhoven University of Technology (TU/e)](https://www.tue.nl/en/)
+* Sometimes I break things
+
+[More about me](https://martinrosso.github.io)
+
 <!--
 **martinrosso/martinrosso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
